@@ -1,0 +1,29 @@
+#+title: Flat renovation board
+#+author: scipunch
+
+* Tasks
+
+** DONE Find renovation companies
+CLOSED: [2025-03-11 Tue 20:00]
+:LOGBOOK:
+- State "DONE"       from              [2025-03-11 Tue 20:00]
+:END:
+| Contact  | Origin   | Requested | Price |
+|----------+----------+-----------+-------|
+| [[https://t.me/EvgenyBeograd][Telegram]] | [[https://poisk.rs/country/serbia/offers/1015-pemont_kvaptir_domov.html][poisk.rs]] | -         | -     |
+| [[https://t.me/remontserbia][Telegram]] | [[https://poisk.rs/country/serbia/offers/1310-remont_kvartir_i_pomeshhenii.html][poisk.rs]] | -         | -     |
+| [[https://t.me/AcademyRenovation][Telegram]] | [[https://poisk.rs/country/serbia/offers/1468-remont_kvartir_domov_i_kommercheskih_pomeshhenii.html][poisk.rs]] | -         | -     |
+
+** TODO Text to Narin and ask for renovation companies
+
+** TODO Write to found renovation companies
+
+** TODO Find 5 furniture stores
+- Ikea
+- Emmezeta
+- Forma Ideale
+- JYSK
+
+** TODO Classify furniture to the ~required for life~, ~great to have~ and ~coziness~
+
+** 
