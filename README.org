@@ -10,9 +10,16 @@ CLOSED: [2025-03-11 Tue 20:00]
 :END:
 | Contact  | Origin   | Requested | Price |
 |----------+----------+-----------+-------|
-| [[https://t.me/EvgenyBeograd][Telegram]] | [[https://poisk.rs/country/serbia/offers/1015-pemont_kvaptir_domov.html][poisk.rs]] | -         | -     |
-| [[https://t.me/remontserbia][Telegram]] | [[https://poisk.rs/country/serbia/offers/1310-remont_kvartir_i_pomeshhenii.html][poisk.rs]] | -         | -     |
-| [[https://t.me/AcademyRenovation][Telegram]] | [[https://poisk.rs/country/serbia/offers/1468-remont_kvartir_domov_i_kommercheskih_pomeshhenii.html][poisk.rs]] | -         | -     |
+| [[https://t.me/EvgenyBeograd][Telegram]] | [[https://poisk.rs/country/serbia/offers/1015-pemont_kvaptir_domov.html][poisk.rs]] | +         | -     |
+| [[https://t.me/remontserbia][Telegram]] | [[https://poisk.rs/country/serbia/offers/1310-remont_kvartir_i_pomeshhenii.html][poisk.rs]] | +         | -     |
+| [[https://t.me/AcademyRenovation][Telegram]] | [[https://poisk.rs/country/serbia/offers/1468-remont_kvartir_domov_i_kommercheskih_pomeshhenii.html][poisk.rs]] | +         | -     |
+| [[https://t.me/Olliow][Telegram]] | [[https://poisk.rs/country/serbia/offers/251-remont_i_stroitelstvo.html][poisk.rs]] | -         | -     |
+| [[https://t.me/yan_slmazov][Telegram]] | [[https://poisk.rs/country/serbia/offers/875-remont_kvartir_i_pomeshhenii_pod_kluch.html][poisk.rs]] | -         | -     |
+| [[https://t.me/OskolSRB][Telegram]] | [[https://poisk.rs/country/serbia/offers/1254-remont_i_stroitelstvo_pod_kluch.html][poisk.rs]] | -         | -     |
+| [[https://t.me/Serbservice][Telegram]] | [[https://poisk.rs/country/serbia/offers/821-remont_i_otdelochnie_raboti_zhilih_i_kommercheskih_pomeshhenii.html][poisk.rs]] | -         | -     |
+| [[https://t.me/shiman_stroy][Telegram]] | [[https://poisk.rs/country/serbia/offers/237-stroitelnie_i_remontnie_raboti.html][poisk.rs]] | -         | -     |
+| [[https://poisk.rs/out.php?go=https://t.me/DeonisTok][Telegram]] | [[https://poisk.rs/country/serbia/offers/1473-remont_i_stroitelstvo.html][poisk.rs]] | -         | -     |
+| [[https://t.me/ZakharMaster][Telegram]] | [[https://poisk.rs/country/serbia/offers/1579-remont.html][poisk.rs]] | -         | -     |
 
 ** TODO Text to Narin and ask for renovation companies
 
