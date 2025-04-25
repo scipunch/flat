@@ -1,44 +1,7 @@
 #+title: Flat renovation board
 #+author: scipunch
 
-* Tasks
-
-** DONE Find renovation companies
-CLOSED: [2025-03-11 Tue 20:00]
-:LOGBOOK:
-- State "DONE"       from              [2025-03-11 Tue 20:00]
-:END:
-| Contact  | Origin   | Requested | Price | Portfolio | Commentary     |
-|----------+----------+-----------+-------+-----------+----------------|
-| [[https://t.me/EvgenyBeograd][Telegram]] | [[https://poisk.rs/country/serbia/offers/1015-pemont_kvaptir_domov.html][poisk.rs]] | +         | -     |           |                |
-| [[https://t.me/remontserbia][Telegram]] | [[https://poisk.rs/country/serbia/offers/1310-remont_kvartir_i_pomeshhenii.html][poisk.rs]] | +         | -     |           |                |
-| [[https://t.me/AcademyRenovation][Telegram]] | [[https://poisk.rs/country/serbia/offers/1468-remont_kvartir_domov_i_kommercheskih_pomeshhenii.html][poisk.rs]] | +         | -     |           | Busy until may |
-| [[https://t.me/Olliow][Telegram]] | [[https://poisk.rs/country/serbia/offers/251-remont_i_stroitelstvo.html][poisk.rs]] | +         | -     | -         |                |
-| [[https://t.me/yan_almazov][Telegram]] | [[https://poisk.rs/country/serbia/offers/875-remont_kvartir_i_pomeshhenii_pod_kluch.html][poisk.rs]] | +         | -     | -         |                |
-| [[https://t.me/OskolSRB][Telegram]] | [[https://poisk.rs/country/serbia/offers/1254-remont_i_stroitelstvo_pod_kluch.html][poisk.rs]] | +         | -     | -         |                |
-| [[https://t.me/Serbservice][Telegram]] | [[https://poisk.rs/country/serbia/offers/821-remont_i_otdelochnie_raboti_zhilih_i_kommercheskih_pomeshhenii.html][poisk.rs]] | -         | -     | -         |                |
-| [[https://t.me/shiman_stroy][Telegram]] | [[https://poisk.rs/country/serbia/offers/237-stroitelnie_i_remontnie_raboti.html][poisk.rs]] | +         | -     | -         |                |
-| [[https://t.me/DeonisTok][Telegram]] | [[https://poisk.rs/country/serbia/offers/1473-remont_i_stroitelstvo.html][poisk.rs]] | +         | -     | -         |                |
-| [[https://t.me/ZakharMaster][Telegram]] | [[https://poisk.rs/country/serbia/offers/1579-remont.html][poisk.rs]] | -         | -     | [[https://youtube.com/@No1-mq6bk?si=WnNqmlbM0TkpNtO4][YouTube]]   | handyman       |
-
-#+begin_quote
-Приветствую! Нашёл ваш контакт через poisk.rs
-
-Хочу сделать реновацию квартиры-студии в близи Ташмайдана в Белграде. Составил документ с планом и общим виденьем будущих работ. Буду благодарен, если получится найти время и ознакомиться, после чего обсудить примерную стоимость работ и возможное время начала
-#+end_quote
-
-https://drive.google.com/file/d/1pZssLWyDYQX5rQZ3fDEffBxnoywaQwq3/view?usp=sharing
-
-** TODO Text to Narin and ask for renovation companies
-
-** TODO Write to found renovation companies
-
-** TODO Find 5 furniture stores
-- Ikea
-- Emmezeta
-- Forma Ideale
-- JYSK
-
-** TODO Classify furniture to the ~required for life~, ~great to have~ and ~coziness~
-
-** 
+* Translations
+- [[file:plan.org][Russian]]
+- [[file:english.org][English]]
+- [[file:serbian.org][Српски]]

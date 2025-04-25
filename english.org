@@ -1,0 +1,143 @@
+#+title: Studio Apartment Renovation Plan
+#+author: Andrey
+#+latex_header: \usepackage[english, russian]{babel}
+
+* Contents                                                   :toc_3:noexport:
+- [[#required-services][Required Services]]
+- [[#important-terms-of-cooperation][Important Terms of Cooperation]]
+- [[#brief-description-of-the-object][Brief Description of the Object]]
+- [[#overall-renovation-plan][Overall Renovation Plan]]
+  - [[#1-preparation-and-demolition-35-days][1. Preparation and Demolition (3–5 days)]]
+  - [[#2-wall-construction-35-days][2. Wall Construction (3–5 days)]]
+  - [[#3-construction-of-new-bathroom-walls-34-days][3. Construction of New Bathroom Walls (3–4 days)]]
+  - [[#4-rough-electrical-wiring-35-days][4. Rough Electrical Wiring (3–5 days)]]
+  - [[#5-water-supply-and-sewerage-23-days][5. Water Supply and Sewerage (2–3 days)]]
+  - [[#6-floor-preparation-35-days][6. Floor Preparation (3–5 days)]]
+  - [[#7-wall-and-floor-finishing-710-days][7. Wall and Floor Finishing (7–10 days)]]
+  - [[#8-installation-of-doors-plumbing-and-electrical-equipment-35-days][8. Installation of Doors, Plumbing, and Electrical Equipment (3–5 days)]]
+  - [[#9-final-cleaning-and-preparation-for-furnishing-23-days][9. Final Cleaning and Preparation for Furnishing (2–3 days)]]
+- [[#building-materials][Building Materials]]
+  - [[#rough-materials][Rough Materials]]
+  - [[#finish-materials][Finish Materials]]
+  - [[#electrical-equipment][Electrical Equipment]]
+- [[#appendix][Appendix]]
+  - [[#final-mockup][Final Mockup]]
+
+* Required Services
+
+- Demolition of internal walls and old coatings
+- Construction of a gypsum board wall
+- Laying new electrical wiring
+- Installation of plumbing and a water heater
+- Installation of underfloor heating and tiling in the bathroom
+
+* Important Terms of Cooperation
+
+- Experience with quartz vinyl
+- Fixed price for work (not hourly pay)
+- Warranty on all work, especially on electrical and plumbing work
+- Waste disposal
+
+* Brief Description of the Object
+
+The apartment with an area of 24 sq.m. is located on the 2nd floor and is located on [[https://maps.app.goo.gl/fHZNWoGEtHksWi3w8][Ruzveltova Street]], the ascent is carried out by an external concrete staircase, there is no elevator.
+
+* Overall Renovation Plan
+
+** 1. Preparation and Demolition (3–5 days)
+
+- Demolition of old bathroom walls
+- Removal of old wall coverings
+- Dismantling of old flooring
+- Dismantling of plumbing and electrical wiring
+- Dismantling of the old front door
+- Installation of a new front door
+- Removal of construction waste
+
+** 2. Wall Construction (3–5 days)
+
+- Expanding and sealing cracks on external walls
+
+** 3. Construction of New Bathroom Walls (3–4 days)
+
+- Laying new partitions from foam blocks or GKL
+- Installation of a door frame
+- Priming and reinforcing seams
+- Preparing the surface for finishing
+
+** 4. Rough Electrical Wiring (3–5 days)
+
+- Installation of new cables and electrical panel
+- Installation of sockets, switches, and lighting points
+- Checking the operability of the entire system
+
+** 5. Water Supply and Sewerage (2–3 days)
+
+- Laying pipes for the sink, shower, toilet, washing machine
+- Checking the system for leaks
+
+** 6. Floor Preparation (3–5 days)
+
+- Waterproofing the bathroom
+- Leveling the floor (if necessary)
+- Installation of underfloor heating in the bathroom
+- Preparing the base for quartz vinyl
+
+** 7. Wall and Floor Finishing (7–10 days)
+
+- Painting walls with latex paint
+- Facing the walls in the bathroom with large-format porcelain stoneware
+- Painting the ceiling and walls in the bathroom
+- Laying quartz vinyl
+- Installation of baseboards
+
+** 8. Installation of Doors, Plumbing, and Electrical Equipment (3–5 days)
+
+- Installation of an interior door to the bathroom
+- Installation of toilet, sink, faucets
+- Installation of switches, sockets, and lighting fixtures
+
+** 9. Final Cleaning and Preparation for Furnishing (2–3 days)
+
+- General cleaning of the premises
+- Checking all systems
+- Preparation for furniture installation
+
+* Building Materials
+
+*List of materials with approximate volume* / Approximate calculations, clarification required at the site
+
+** Rough Materials
+
+- *Deep penetration primer* 10 l /For preparing walls before plastering and tiling/
+- *Waterproofing for the bathroom* 5–7 kg /Under tiles on the floor and walls in wet areas/
+- *Mounting adhesive (for foam blocks)* 2–3 bags of 25 kg /For laying new bathroom walls/
+- *Screws, dowels, corners for wall mounting*
+
+** Finish Materials
+
+- *Washable latex paint* 10 l (2-3 cans) /For walls/
+- *Large format porcelain stoneware* 8–10 m² (bathroom)
+- *Tile adhesive* 3 bags of 25 kg /For laying porcelain stoneware/
+- *Quartz vinyl* 30 m² /Including allowance for trimming/
+
+** Electrical Equipment
+
+- *Cable VVG 3×2.5* 40 m /For sockets/
+- *Cable VVG 3×1.5* 20 m /For lighting/
+- *Socket boxes* 15 pcs
+- *Sockets and switches* 10–12 pcs
+- *Panel with circuit breakers* 1 pc
+- *LED backlight*
+
+* Appendix
+
+** Final Mockup
+:PROPERTIES:
+:ID:       09ebdaf9-5ff1-4c24-85ed-57d50092dd03
+:END:
+
+#+DOWNLOADED: screenshot @ 2025-03-19 12:29:29
+[[file:Приложение/2025-03-19_12-29-29_screenshot.png]]
+
+[[https://drive.google.com/file/d/13h-R1aoj9f6Z40jsrrGZrNA3UMwl2f0N/view?usp=sharing][Исходный файл SketchUp]]
